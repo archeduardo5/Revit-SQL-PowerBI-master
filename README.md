@@ -1,9 +1,6 @@
-# Autodesk Revit-SQL-PowerBI
+# Autodesk Revit-SQL-Microsoft PowerBI PBi
 
-Revit SQL plugin that exports Revit category data to SQL.
+"Revit SQL plugin that allows exporting Revit category data to a SQL database.
 
-User can select which Revit category they want to export, which will export all visible parameters.
-
-
-
+The user can select which Revit category to export, including all visible parameters.
 
